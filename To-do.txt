@@ -1,0 +1,11 @@
+CODING:
+Actual functionality
+Implement SonarQube
+Add Unit Testing
+Connect to separate database server (H2 in the meantime)
+
+DEVOPS:
+Upload to Git Repo
+Deploy on EC2 instance
+Set up Jenkins pipeline for CI/CD
+Manage container(s) with Kubernetes
